@@ -1,8 +1,8 @@
-Biomechanic-Analyse-for-Two-Arm-Dumbbell-Preacher-Cur-by-Mediapipe
-This code calculate Force and Torque and velocity and acceleration in Two-Arm Dumbbell Preacher Cu and plot result for only right hand because I consider both hand work same.
-I used data in BASIC BIOMECHANICS, SIXTH EDITION. Susan J. Hall, Ph.D. College of Health Sciences University of Delaware Edition by George H.Martin Book for body segments like weight of the hands.
- Before plot for right hand code output give mean above data (These are mean of our data) :
-Fx in righthand forearm(N): 
+#Biomechanic-Analyse-for-Two-Arm-Dumbbell-Preacher-Cur-by-Mediapipe
+#This code calculate Force and Torque and velocity and acceleration in Two-Arm Dumbbell Preacher Cu and plot result for only right hand because I consider both hand work same.
+#I used data in BASIC BIOMECHANICS, SIXTH EDITION. Susan J. Hall, Ph.D. College of Health Sciences University of Delaware Edition by George H.Martin Book for body segments like weight of #the hands.
+ #Before plot for right hand code output give mean above data (These are mean of our data) :
+#Fx in righthand forearm(N): 
 Fy in righthand forearm(N):
 torque in righthand forearm(N.m): 
 Fx in lefthand forearm(N): 
